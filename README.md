@@ -82,7 +82,7 @@ Scaling: TaskTaka is designed to handle small to medium-sized task lists. Perfor
 ```
 
 # Contributors
-Freddie Gutierrez, Leo Zhang, Gevilee Mariane Verango, Wallace Tang
+Freddie Gutierrez, Lily Zhang, Gevilee Mariane Verango, Wallace Tang
 
 (CAL HACKS 11.0 CCSF CS Club)
 
